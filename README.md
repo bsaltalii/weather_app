@@ -67,7 +67,7 @@ Structured using best practices for maintainability and scalability:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/weather_app.git
+git clone https://github.com/bsaltalii/weather_app.git
 
 # Navigate to the project directory
 cd weather_app
