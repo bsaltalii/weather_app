@@ -89,7 +89,7 @@ flutter run
       <td align="center">
         <a href="https://github.com/bsaltalii">
           <img src="https://avatars.githubusercontent.com/u/96692734?v=4" width="100px;" alt="Developer Avatar"/>
-          <br /><sub><b>Your Name</b></sub>
+          <br /><sub><b>Burak Saltalı</b></sub>
         </a>
       </td>
     </tr>
